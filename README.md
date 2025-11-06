@@ -57,6 +57,26 @@ The Bank Analytics Dashboard is an interactive project built with Excel, Power B
 - Transactions per Day/Week/Month
 - Total Transaction Amount by Branch
 
+## Project Process
+- Data Collection & Import:
+Gathered raw banking datasets containing loan details, transaction records, and customer demographics.
+Imported data into Excel, Power BI, and Tableau for processing and visualization.
+- Data Cleaning & Preparation:
+Removed duplicates, handled missing values, and standardized data formats.
+Created calculated fields (loan amount, payment trend, verification rate, etc.) for deeper analysis.
+- Data Analysis:
+Performed loan disbursement analysis, branch-wise transaction evaluation, and customer segmentation.
+Identified key metrics such as credit-debit ratio, loan verification rate, and active account ratio.
+- Dashboard Development:
+Built interactive dashboards in Excel, Power BI, and Tableau for dynamic insights.
+Designed filters and slicers for branch, loan type, transaction method, and demographic analysis.
+- Visualization & Insights Extraction:
+Visualized trends in monthly payments, state-wise disbursement, and transaction patterns.
+Derived actionable insights on high-performing branches, customer behavior, and financial stability.
+- Conclusion & Reporting:
+Summarized findings showing stable growth, balanced transactions, and loan efficiency opportunities.
+Presented results as a comprehensive dashboard to support data-driven decision-making in the banking sector.
+
 ## Bank Analytics Excel Dashboard:
 <img width="1377" height="621" alt="Screenshot 2025-11-06 101707" src="https://github.com/user-attachments/assets/67e55d31-c557-4f16-9814-dc98918c2737" />
 <img width="1522" height="643" alt="Screenshot 2025-11-06 101552" src="https://github.com/user-attachments/assets/70d8e1aa-634b-4398-b214-1dd2f6da20b5" />
